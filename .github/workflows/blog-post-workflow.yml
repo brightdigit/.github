@@ -1,0 +1,43 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in BrightDigit posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://brightdigit.com/feed.rss"
+          skip_commit: true
+      - name: Pull in EmpowerApps episodes
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.transistor.fm/empowerapps-show"
+          comment_tag_name: "EMPOWERAPPS-SHOW"
+          skip_commit: true
+      - name: Pull in Newsletter episodes
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://us12.campaign-archive.com/feed?u=cb3bba007ed171091f55c47f0&amp;id=584d0d5c40"
+          comment_tag_name: "NEWSLETTER-LIST"
+          max_post_count: 3
+          skip_commit: true
+      - name: Pull in Latest Youtube Video
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnl3jF6GHAvlj1MZyb6Ka9g"
+          comment_tag_name: "YOUTUBE-VIDEO"
+          max_post_count: 1 
+          item_exec: "post.description = post.id.replace('yt:video:','');"
+          template: "[![$title](http://img.youtube.com/vi/$description/0.jpg)](http://www.youtube.com/watch?v=$description \"$title\")$newline"
+      
+          
