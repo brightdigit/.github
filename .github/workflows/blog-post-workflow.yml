@@ -17,12 +17,14 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://brightdigit.com/feed.rss"
+          readme_path: ".profile/README.md"
           skip_commit: true
       - name: Pull in EmpowerApps episodes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.transistor.fm/empowerapps-show"
           comment_tag_name: "EMPOWERAPPS-SHOW"
+          readme_path: ".profile/README.md"
           skip_commit: true
       - name: Pull in Newsletter episodes
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -30,6 +32,7 @@ jobs:
           feed_list: "https://us12.campaign-archive.com/feed?u=cb3bba007ed171091f55c47f0&amp;id=584d0d5c40"
           comment_tag_name: "NEWSLETTER-LIST"
           max_post_count: 3
+          readme_path: ".profile/README.md"
           skip_commit: true
       - name: Pull in Latest Youtube Video
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -37,6 +40,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnl3jF6GHAvlj1MZyb6Ka9g"
           comment_tag_name: "YOUTUBE-VIDEO"
           max_post_count: 1 
+          readme_path: ".profile/README.md"
           item_exec: "post.description = post.id.replace('yt:video:','');"
           template: "[![$title](http://img.youtube.com/vi/$description/0.jpg)](http://www.youtube.com/watch?v=$description \"$title\")$newline"
       
