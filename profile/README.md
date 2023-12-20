@@ -19,6 +19,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [BrightDigit #87 - 🎁 The Bushel Holiday Special 🎄✨](https://mailchi.mp/59595443b36b/brightdigit-87-bushel-holiday)
+- [BrightDigit #86 - 🍎 Bushel is Here: Pre-Orders Now Open for macOS App Testing! 🚀](https://mailchi.mp/dd9f95f1dbf1/brightdigit-86-bushel-preorder)
+- [BrightDigit #85 - 💪The Real Skills You Need to Be a Pro Dev 🚀](https://mailchi.mp/7ccbaa6a2d2d/brightdigit-85-pro-dev)
 <!-- NEWSLETTER-LIST:END -->
 
 ## My Apps
