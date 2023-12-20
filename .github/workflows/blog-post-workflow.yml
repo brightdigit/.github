@@ -18,14 +18,14 @@ jobs:
         with:
           feed_list: "https://brightdigit.com/feed.rss"
           readme_path: "./profile/README.md"
-          skip_commit: true
+          #skip_commit: true
       - name: Pull in EmpowerApps episodes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.transistor.fm/empowerapps-show"
           comment_tag_name: "EMPOWERAPPS-SHOW"
           readme_path: "./profile/README.md"
-          skip_commit: true
+          #skip_commit: true
       - name: Pull in Newsletter episodes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -33,7 +33,7 @@ jobs:
           comment_tag_name: "NEWSLETTER-LIST"
           max_post_count: 3
           readme_path: "./profile/README.md"
-          skip_commit: true
+          #skip_commit: true
       - name: Pull in Latest Youtube Video
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
