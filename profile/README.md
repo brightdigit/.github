@@ -8,8 +8,7 @@ BrightDigit was created with the idea that great apps are made by thinking ahead
 Founded in 2012 by Leo Dion, a software developer with over 20 years’ experience, BrightDigit has focused on building high-quality apps for Apple devices.
 We specialize in building apps using Swift and exploring all the new opportunities in the growing Apple software market.
 
-<!-- YOUTUBE-VIDEO:START -->
-- [#chatgpt and  #softwaredevelopment #macos #swiftui](https://www.youtube.com/watch?v=WWydCbbIj6o)
+<!-- YOUTUBE-VIDEO:START -->[![#chatgpt and  #softwaredevelopment #macos #swiftui](http://img.youtube.com/vi/WWydCbbIj6o/0.jpg)](http://www.youtube.com/watch?v=WWydCbbIj6o "#chatgpt and  #softwaredevelopment #macos #swiftui")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
