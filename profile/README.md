@@ -71,7 +71,7 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 <br>
 
-<img src="../assets/icons/bushel.svg" width="80">
+<img src="./../assets/icons/bushel.svg" width="80">
 
 ### [Bushel](https://getbushel.app)
 
