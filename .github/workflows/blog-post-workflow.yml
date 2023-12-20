@@ -18,14 +18,14 @@ jobs:
         with:
           feed_list: "https://brightdigit.com/feed.rss"
           readme_path: "./profile/README.md"
-          #skip_commit: true
+          skip_commit: true
       - name: Pull in EmpowerApps episodes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.transistor.fm/empowerapps-show"
           comment_tag_name: "EMPOWERAPPS-SHOW"
           readme_path: "./profile/README.md"
-          #skip_commit: true
+          skip_commit: true
       - name: Pull in Newsletter episodes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -33,15 +33,17 @@ jobs:
           comment_tag_name: "NEWSLETTER-LIST"
           max_post_count: 3
           readme_path: "./profile/README.md"
-          #skip_commit: true
+          skip_commit: true
       - name: Pull in Latest Youtube Video
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnl3jF6GHAvlj1MZyb6Ka9g"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLmpJxPaZbSnBvpnEdaX78wSM1d9BVvMfI"
           comment_tag_name: "YOUTUBE-VIDEO"
           max_post_count: 1 
           readme_path: "./profile/README.md"
-          item_exec: "post.description = post.url.split('=').pop()"
-          template: "[![$title](http://img.youtube.com/vi/$description/0.jpg)](http://www.youtube.com/watch?v=$description \"$title\")$newline"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: "$newline[![$title](http://img.youtube.com/vi/$videoId/0.jpg)](http://www.youtube.com/watch?v=$videoId \"$title\")$newline"
+          skip_commit: true
+      - uses: stefanzweifel/git-auto-commit-action@
       
           
