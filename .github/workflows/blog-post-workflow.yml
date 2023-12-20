@@ -41,7 +41,7 @@ jobs:
           comment_tag_name: "YOUTUBE-VIDEO"
           max_post_count: 1 
           readme_path: "./profile/README.md"
-          item_exec: "post.description = post.url.split('=').pop()"
+          #item_exec: "post.description = post.url.split('=').pop()"
           #template: "[![$title](http://img.youtube.com/vi/$description/0.jpg)](http://www.youtube.com/watch?v=$description \"$title\")$newline"
       
           
