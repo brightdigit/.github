@@ -42,7 +42,8 @@ jobs:
           max_post_count: 1 
           readme_path: "./profile/README.md"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: "$newline[![$title](http://img.youtube.com/vi/$videoId/0.jpg)](http://www.youtube.com/watch?v=$videoId \"$title\")$newline"
+          date_format: "mmmm d"
+          template: "$newline### [$title ($date)]((http://www.youtube.com/watch?v=$videoId)$newline$newline[![$title](http://img.youtube.com/vi/$videoId/0.jpg)](http://www.youtube.com/watch?v=$videoId \"$title\")$newline"
           skip_commit: true
       - uses: stefanzweifel/git-auto-commit-action@v5
       

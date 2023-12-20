@@ -8,7 +8,10 @@ BrightDigit was created with the idea that great apps are made by thinking ahead
 Founded in 2012 by Leo Dion, a software developer with over 20 years’ experience, BrightDigit has focused on building high-quality apps for Apple devices.
 We specialize in building apps using Swift and exploring all the new opportunities in the growing Apple software market.
 
+## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
+### [The Bushel Holiday Special (December 15, 2023)](http://www.youtube.com/watch?v=rN23Ygvy47E)
+
 [![The Bushel Holiday Special](http://img.youtube.com/vi/rN23Ygvy47E/0.jpg)](http://www.youtube.com/watch?v=rN23Ygvy47E "The Bushel Holiday Special")
 <!-- YOUTUBE-VIDEO:END -->
 
