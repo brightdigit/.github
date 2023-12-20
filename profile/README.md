@@ -10,7 +10,7 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [The Bushel Holiday Special (December 15)]((http://www.youtube.com/watch?v=rN23Ygvy47E)
+### [The Bushel Holiday Special (December 15)](http://www.youtube.com/watch?v=rN23Ygvy47E)
 
 [![The Bushel Holiday Special](http://img.youtube.com/vi/rN23Ygvy47E/0.jpg)](http://www.youtube.com/watch?v=rN23Ygvy47E "The Bushel Holiday Special")
 <!-- YOUTUBE-VIDEO:END -->
