@@ -1,11 +1,12 @@
 # Your Experts in Swift App Development
 
-We are BrightDigit a Swift-Based App Development headed by @leogdion
+We are BrightDigit a Swift-Based App Development headed by [@leogdion](http://github.com/leogdion)
 
 ## Who We Are & What We Do
 
 BrightDigit was created with the idea that great apps are made by thinking ahead.
-Founded in 2012 by Leo Dion, a software developer with over 20 years’ experience, BrightDigit has focused on building high-quality apps for Apple devices.
+
+Founded in 2012 by [Leo Dion]((http://github.com/leogdion)), a software developer with over 20 years’ experience, BrightDigit has focused on building high-quality apps for Apple devices.
 We specialize in building apps using Swift and exploring all the new opportunities in the growing Apple software market.
 
 ## Our Lastest Video
@@ -28,9 +29,11 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 - [BrightDigit #85 - 💪The Real Skills You Need to Be a Pro Dev 🚀](https://mailchi.mp/7ccbaa6a2d2d/brightdigit-85-pro-dev)
 <!-- NEWSLETTER-LIST:END -->
 
+![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
+
 ## My Apps
 
-<img src="assets/icons/heartwitch.svg" width="80">
+<img src="../assets/icons/heartwitch.svg" width="80">
 
 ### [Heartwitch](https://heartwitch.app/)
 
@@ -68,7 +71,7 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 <br>
 
-<img src="assets/icons/bushel.svg" width="80">
+<img src="../assets/icons/bushel.svg" width="80">
 
 ### [Bushel](https://getbushel.app)
 
