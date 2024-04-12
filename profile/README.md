@@ -94,11 +94,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bushel of an App - Making Cider from Apples](https://brightdigit.com/articles/bushel-launch-part-4)
-- [Bushel of an App - Design, Architecture, and Automation](https://brightdigit.com/articles/bushel-launch-part-3)
-- [Bushel of an App - Building the Crust](https://brightdigit.com/articles/bushel-launch-part-2)
-- [Bushel of an App - From Seed of an Idea](https://brightdigit.com/articles/bushel-launch-part-1)
-- [From Beginner to Pro: The Real Skills You Need, and the Myths about Becoming an iOS Developer](https://brightdigit.com/articles/how-to-become-iOS-developer)
+- [Using ModelActor in SwiftData](https://brightdigit.com/tutorials/swiftdata-modelactor)
+- [Control Your Swift Dependencies Before They Control You](https://brightdigit.com/articles/dependency-management-swift)
+- [What You Should Know About iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture)
+- [Getting Started with Swift OpenAPI Generator](https://brightdigit.com/tutorials/swift-openapi-generator)
+- [Connecting Observation with Binding in SwiftUI](https://brightdigit.com/tutorials/observation-binding-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 
