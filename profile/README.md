@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
-- [BrightDigit #87 - 🎁 The Bushel Holiday Special 🎄✨](https://mailchi.mp/59595443b36b/brightdigit-87-bushel-holiday)
-- [BrightDigit #86 - 🍎 Bushel is Here: Pre-Orders Now Open for macOS App Testing! 🚀](https://mailchi.mp/dd9f95f1dbf1/brightdigit-86-bushel-preorder)
-- [BrightDigit #85 - 💪The Real Skills You Need to Be a Pro Dev 🚀](https://mailchi.mp/7ccbaa6a2d2d/brightdigit-85-pro-dev)
+- [Article Feedback, Please?](https://mailchi.mp/fa65099aa006/modelactor-article-feedback-please)
+- [BrightDigit #90 - What is a Dependency? 🤔](https://mailchi.mp/488bc7aaad1b/brightdigit-90-dependency)
+- [BrightDigit #89 - Architecture and OpenAPI](https://mailchi.mp/f8a1584823c1/brightdigit-89)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
