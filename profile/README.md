@@ -104,11 +104,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
-- [The Bushel Holiday Special](https://share.transistor.fm/s/d0d7eef2)
-- [We Have All The Heroes with Stefano Mondino](https://share.transistor.fm/s/72e1064d)
-- [Calm Intentions with Alaina Kafkes](https://share.transistor.fm/s/89616d29)
-- [Empowering Accessibility with Via Fairchild](https://share.transistor.fm/s/44d488ba)
-- [Learning Judo with Sean Rucker](https://share.transistor.fm/s/5353d584)
+- [Hacking with Ignite with Paul Hudson](https://share.transistor.fm/s/1e440a9f)
+- [SwiftUI Tips and Tricks with Craig Clayton](https://share.transistor.fm/s/98685f7f)
+- [Triple Glazed Apple Development with Malin Sundberg and Kai Dombrowski](https://share.transistor.fm/s/ccea28dd)
+- [What&#39;s Next with Adam Rush](https://share.transistor.fm/s/6a6b8505)
+- [Apple&#39;s App Vision with Kyle Lee](https://share.transistor.fm/s/585171df)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 
