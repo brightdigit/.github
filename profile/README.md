@@ -13,7 +13,7 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 <!-- YOUTUBE-VIDEO:START -->
 ### [Hacking with Ignite with Paul Hudson (April 3)](http://www.youtube.com/watch?v=bs4yIZryA5o)
 
-[![Hacking with Ignite with Paul Hudson](http://img.youtube.com/vi/bs4yIZryA5o/0.jpg)](http://www.youtube.com/watch?v=bs4yIZryA5o "Hacking with Ignite with Paul Hudson")
+[![Hacking with Ignite with Paul Hudson](http://img.youtube.com/vi/bs4yIZryA5o/maxresdefault.jpg)](http://www.youtube.com/watch?v=bs4yIZryA5o "Hacking with Ignite with Paul Hudson")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
