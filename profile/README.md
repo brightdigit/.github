@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [BrightDigit #92 - 🚀 Join Me at Exciting Events! 🌎](https://mailchi.mp/0e6a445b6c66/brightdigit-92-conferences)
 - [BrightDigit #91 -  🌻Spring Has Sprung🌻](https://mailchi.mp/ef414598d911/brightdigit-91-spring)
 - [Article Feedback, Please?](https://mailchi.mp/fa65099aa006/modelactor-article-feedback-please)
-- [BrightDigit #90 - What is a Dependency? 🤔](https://mailchi.mp/488bc7aaad1b/brightdigit-90-dependency)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
