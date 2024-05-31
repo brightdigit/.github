@@ -96,8 +96,8 @@ Unlike other apps that capture user health data, there is no need for extra hard
 <!-- BLOG-POST-LIST:START -->
 - [Using ModelActor in SwiftData](https://brightdigit.com/tutorials/swiftdata-modelactor)
 - [Control Your Swift Dependencies Before They Control You](https://brightdigit.com/articles/dependency-management-swift)
-- [What You Should Know About iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture)
 - [Getting Started with Swift OpenAPI Generator](https://brightdigit.com/tutorials/swift-openapi-generator)
+- [What You Should Know About iOS Software Architecture](https://brightdigit.com/articles/ios-software-architecture)
 - [Connecting Observation with Binding in SwiftUI](https://brightdigit.com/tutorials/observation-binding-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
