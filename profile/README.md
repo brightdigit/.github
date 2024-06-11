@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Plinky with Joe Fabisevich (May 20)](http://www.youtube.com/watch?v=CdamqOAEztY)
+### [SOTU 2024 with Peter Witham (June 11)](http://www.youtube.com/watch?v=_DUFuQMw9WM)
 
-[![Plinky with Joe Fabisevich](http://img.youtube.com/vi/CdamqOAEztY/maxresdefault.jpg)](http://www.youtube.com/watch?v=CdamqOAEztY "Plinky with Joe Fabisevich")
+[![SOTU 2024 with Peter Witham](http://img.youtube.com/vi/_DUFuQMw9WM/maxresdefault.jpg)](http://www.youtube.com/watch?v=_DUFuQMw9WM "SOTU 2024 with Peter Witham")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
