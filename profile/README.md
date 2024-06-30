@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [SOTU 2024 with Peter Witham (June 11)](http://www.youtube.com/watch?v=_DUFuQMw9WM)
+### [WWDC Notes with Cihat Gündüz (June 30)](http://www.youtube.com/watch?v=VaNzi3uWXZc)
 
-[![SOTU 2024 with Peter Witham](http://img.youtube.com/vi/_DUFuQMw9WM/maxresdefault.jpg)](http://www.youtube.com/watch?v=_DUFuQMw9WM "SOTU 2024 with Peter Witham")
+[![WWDC Notes with Cihat Gündüz](http://img.youtube.com/vi/VaNzi3uWXZc/maxresdefault.jpg)](http://www.youtube.com/watch?v=VaNzi3uWXZc "WWDC Notes with Cihat Gündüz")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
