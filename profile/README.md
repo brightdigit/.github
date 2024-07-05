@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [WWDC Notes with Cihat Gündüz (June 30)](http://www.youtube.com/watch?v=VaNzi3uWXZc)
+### [Swift Student Challenge with Dezmond Blair (July 5)](http://www.youtube.com/watch?v=BYIl3aobeTY)
 
-[![WWDC Notes with Cihat Gündüz](http://img.youtube.com/vi/VaNzi3uWXZc/maxresdefault.jpg)](http://www.youtube.com/watch?v=VaNzi3uWXZc "WWDC Notes with Cihat Gündüz")
+[![Swift Student Challenge with Dezmond Blair](http://img.youtube.com/vi/BYIl3aobeTY/maxresdefault.jpg)](http://www.youtube.com/watch?v=BYIl3aobeTY "Swift Student Challenge with Dezmond Blair")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
