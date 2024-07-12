@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Swift Student Challenge with Dezmond Blair (July 5)](http://www.youtube.com/watch?v=BYIl3aobeTY)
+### [Can you Vision Pro in Objective-C with Danielle Lewis (July 12)](http://www.youtube.com/watch?v=iPLIXIbGv98)
 
-[![Swift Student Challenge with Dezmond Blair](http://img.youtube.com/vi/BYIl3aobeTY/maxresdefault.jpg)](http://www.youtube.com/watch?v=BYIl3aobeTY "Swift Student Challenge with Dezmond Blair")
+[![Can you Vision Pro in Objective-C with Danielle Lewis](http://img.youtube.com/vi/iPLIXIbGv98/maxresdefault.jpg)](http://www.youtube.com/watch?v=iPLIXIbGv98 "Can you Vision Pro in Objective-C with Danielle Lewis")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
