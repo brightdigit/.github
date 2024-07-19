@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Can you Vision Pro in Objective-C with Danielle Lewis (July 12)](http://www.youtube.com/watch?v=iPLIXIbGv98)
+### [SwiftUI Field Guide with Chris Eidhof (July 19)](http://www.youtube.com/watch?v=ZLOCEcTxDYI)
 
-[![Can you Vision Pro in Objective-C with Danielle Lewis](http://img.youtube.com/vi/iPLIXIbGv98/maxresdefault.jpg)](http://www.youtube.com/watch?v=iPLIXIbGv98 "Can you Vision Pro in Objective-C with Danielle Lewis")
+[![SwiftUI Field Guide with Chris Eidhof](http://img.youtube.com/vi/ZLOCEcTxDYI/maxresdefault.jpg)](http://www.youtube.com/watch?v=ZLOCEcTxDYI "SwiftUI Field Guide with Chris Eidhof")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
