@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [SwiftUI Field Guide with Chris Eidhof (July 19)](http://www.youtube.com/watch?v=ZLOCEcTxDYI)
+### [Voice in a Can with Damian Mehers (September 3)](http://www.youtube.com/watch?v=SpQkJJNsuw4)
 
-[![SwiftUI Field Guide with Chris Eidhof](http://img.youtube.com/vi/ZLOCEcTxDYI/maxresdefault.jpg)](http://www.youtube.com/watch?v=ZLOCEcTxDYI "SwiftUI Field Guide with Chris Eidhof")
+[![Voice in a Can with Damian Mehers](http://img.youtube.com/vi/SpQkJJNsuw4/maxresdefault.jpg)](http://www.youtube.com/watch?v=SpQkJJNsuw4 "Voice in a Can with Damian Mehers")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
