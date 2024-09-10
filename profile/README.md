@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Voice in a Can with Damian Mehers (September 3)](http://www.youtube.com/watch?v=SpQkJJNsuw4)
+### [The Case of the Crimson Test Suite with Daniel Steinberg (September 10)](http://www.youtube.com/watch?v=pzB-_zK8ENI)
 
-[![Voice in a Can with Damian Mehers](http://img.youtube.com/vi/SpQkJJNsuw4/maxresdefault.jpg)](http://www.youtube.com/watch?v=SpQkJJNsuw4 "Voice in a Can with Damian Mehers")
+[![The Case of the Crimson Test Suite with Daniel Steinberg](http://img.youtube.com/vi/pzB-_zK8ENI/maxresdefault.jpg)](http://www.youtube.com/watch?v=pzB-_zK8ENI "The Case of the Crimson Test Suite with Daniel Steinberg")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
