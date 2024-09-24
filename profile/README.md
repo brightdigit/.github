@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [The Case of the Crimson Test Suite with Daniel Steinberg (September 10)](http://www.youtube.com/watch?v=pzB-_zK8ENI)
+### [The Great SwiftUI Migration - Part 1 with Ben Scheirman (September 24)](http://www.youtube.com/watch?v=nI7pn0-tiiQ)
 
-[![The Case of the Crimson Test Suite with Daniel Steinberg](http://img.youtube.com/vi/pzB-_zK8ENI/maxresdefault.jpg)](http://www.youtube.com/watch?v=pzB-_zK8ENI "The Case of the Crimson Test Suite with Daniel Steinberg")
+[![The Great SwiftUI Migration - Part 1 with Ben Scheirman](http://img.youtube.com/vi/nI7pn0-tiiQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=nI7pn0-tiiQ "The Great SwiftUI Migration - Part 1 with Ben Scheirman")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
