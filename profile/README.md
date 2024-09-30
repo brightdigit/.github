@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [The Great SwiftUI Migration - Part 1 with Ben Scheirman (September 24)](http://www.youtube.com/watch?v=nI7pn0-tiiQ)
+### [The Great SwiftUI Migration - Part 2 with Ben Scheirman (September 30)](http://www.youtube.com/watch?v=-w2l5IoQztU)
 
-[![The Great SwiftUI Migration - Part 1 with Ben Scheirman](http://img.youtube.com/vi/nI7pn0-tiiQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=nI7pn0-tiiQ "The Great SwiftUI Migration - Part 1 with Ben Scheirman")
+[![The Great SwiftUI Migration - Part 2 with Ben Scheirman](http://img.youtube.com/vi/-w2l5IoQztU/maxresdefault.jpg)](http://www.youtube.com/watch?v=-w2l5IoQztU "The Great SwiftUI Migration - Part 2 with Ben Scheirman")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
