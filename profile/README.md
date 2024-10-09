@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [BrightDigit #100 - Top 10 Emails Ever! 🎉🚀](https://mailchi.mp/ce3094a03531/brightdigit-100)
 - [BrightDigit #99 - 🌟 Rising Stars &amp; Fresh Perspectives 🌟](https://mailchi.mp/e9f2053b4086/brightdigit-99-fresh)
 - [BrightDigit #98 - How can we help?](https://mailchi.mp/3d14fc6ae776/brightdigit-98-available)
-- [BrightDigit #97 - Summer of Swift 🌴](https://mailchi.mp/462007768241/brightdigit-97-summer)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
