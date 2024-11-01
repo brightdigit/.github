@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [The Great SwiftUI Migration - Part 2 with Ben Scheirman (September 30)](http://www.youtube.com/watch?v=-w2l5IoQztU)
+### [Debugging Your Job Search with Jaim Zuber (November 1)](http://www.youtube.com/watch?v=LbOS-31u8G0)
 
-[![The Great SwiftUI Migration - Part 2 with Ben Scheirman](http://img.youtube.com/vi/-w2l5IoQztU/maxresdefault.jpg)](http://www.youtube.com/watch?v=-w2l5IoQztU "The Great SwiftUI Migration - Part 2 with Ben Scheirman")
+[![Debugging Your Job Search with Jaim Zuber](http://img.youtube.com/vi/LbOS-31u8G0/maxresdefault.jpg)](http://www.youtube.com/watch?v=LbOS-31u8G0 "Debugging Your Job Search with Jaim Zuber")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
