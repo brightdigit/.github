@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Debugging Your Job Search with Jaim Zuber (November 1)](http://www.youtube.com/watch?v=LbOS-31u8G0)
+### [Ludicrous Types with Nick Lockwood (November 8)](http://www.youtube.com/watch?v=RWXteJz74MU)
 
-[![Debugging Your Job Search with Jaim Zuber](http://img.youtube.com/vi/LbOS-31u8G0/maxresdefault.jpg)](http://www.youtube.com/watch?v=LbOS-31u8G0 "Debugging Your Job Search with Jaim Zuber")
+[![Ludicrous Types with Nick Lockwood](http://img.youtube.com/vi/RWXteJz74MU/maxresdefault.jpg)](http://www.youtube.com/watch?v=RWXteJz74MU "Ludicrous Types with Nick Lockwood")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
