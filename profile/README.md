@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Ludicrous Types with Nick Lockwood (November 8)](http://www.youtube.com/watch?v=RWXteJz74MU)
+### [Full Stack Lyriq with Adegboyega Olusunmade (November 15)](http://www.youtube.com/watch?v=mcWLqAWLrJM)
 
-[![Ludicrous Types with Nick Lockwood](http://img.youtube.com/vi/RWXteJz74MU/maxresdefault.jpg)](http://www.youtube.com/watch?v=RWXteJz74MU "Ludicrous Types with Nick Lockwood")
+[![Full Stack Lyriq with Adegboyega Olusunmade](http://img.youtube.com/vi/mcWLqAWLrJM/maxresdefault.jpg)](http://www.youtube.com/watch?v=mcWLqAWLrJM "Full Stack Lyriq with Adegboyega Olusunmade")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
