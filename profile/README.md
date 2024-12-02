@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Swift Toolkit with Natan Rolnik (November 22)](http://www.youtube.com/watch?v=Dem0pG1WIfk)
+### [Swift, Server Side, Serverless with Sébastien Stormacq (December 2)](http://www.youtube.com/watch?v=97AgMeaVUZs)
 
-[![Swift Toolkit with Natan Rolnik](http://img.youtube.com/vi/Dem0pG1WIfk/maxresdefault.jpg)](http://www.youtube.com/watch?v=Dem0pG1WIfk "Swift Toolkit with Natan Rolnik")
+[![Swift, Server Side, Serverless with Sébastien Stormacq](http://img.youtube.com/vi/97AgMeaVUZs/maxresdefault.jpg)](http://www.youtube.com/watch?v=97AgMeaVUZs "Swift, Server Side, Serverless with Sébastien Stormacq")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
