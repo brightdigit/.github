@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Swift, Server Side, Serverless with Sébastien Stormacq (December 2)](http://www.youtube.com/watch?v=97AgMeaVUZs)
+### [Practical Year - Part 1 with Donny Wals (December 19)](http://www.youtube.com/watch?v=v9RPlZYh7W8)
 
-[![Swift, Server Side, Serverless with Sébastien Stormacq](http://img.youtube.com/vi/97AgMeaVUZs/maxresdefault.jpg)](http://www.youtube.com/watch?v=97AgMeaVUZs "Swift, Server Side, Serverless with Sébastien Stormacq")
+[![Practical Year - Part 1 with Donny Wals](http://img.youtube.com/vi/v9RPlZYh7W8/maxresdefault.jpg)](http://www.youtube.com/watch?v=v9RPlZYh7W8 "Practical Year - Part 1 with Donny Wals")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
