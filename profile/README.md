@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [BrightDigit #105 - Swift 6 &amp; 2024 Recap 🎅](https://mailchi.mp/40056a8795f2/brightdigit-97-summer-17991651)
 - [BrightDigit #104 - 📹 Take a VM Selfie with Bushel 2](https://mailchi.mp/12fa12658626/brightdigit-104-bushel)
 - [BrightDigit 103 - 🎁 Early Black Friday Deals](https://mailchi.mp/dd61c343d130/brightdigit-103-black-friday)
-- [BrightDigit #102 - What&#39;s coming in Bushel 2?](https://mailchi.mp/59a7e96bf42d/brightdigit-102-bushel2)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
