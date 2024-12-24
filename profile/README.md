@@ -104,11 +104,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Practical Year - Part 2 with Donny Wals](https://share.transistor.fm/s/04258f08)
 - [Practical Year - Part 1 with Donny Wals](https://share.transistor.fm/s/5054e174)
 - [Swift, Server Side, Serverless with Sébastien Stormacq](https://share.transistor.fm/s/47ba9790)
 - [Swift Toolkit with Natan Rolnik](https://share.transistor.fm/s/1326191d)
 - [Full Stack Lyriq with Adegboyega Olusunmade](https://share.transistor.fm/s/ac8d5be9)
-- [Ludicrous Types with Nick Lockwood](https://share.transistor.fm/s/16c79a30)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 
