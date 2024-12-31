@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Practical Year - Part 2 with Donny Wals (December 24)](http://www.youtube.com/watch?v=Rs1tPQ_vDqo)
+### [Fear of the Main Thread with Matt Masicotte (December 31)](http://www.youtube.com/watch?v=4IoVDpvT5WU)
 
-[![Practical Year - Part 2 with Donny Wals](http://img.youtube.com/vi/Rs1tPQ_vDqo/maxresdefault.jpg)](http://www.youtube.com/watch?v=Rs1tPQ_vDqo "Practical Year - Part 2 with Donny Wals")
+[![Fear of the Main Thread with Matt Masicotte](http://img.youtube.com/vi/4IoVDpvT5WU/maxresdefault.jpg)](http://www.youtube.com/watch?v=4IoVDpvT5WU "Fear of the Main Thread with Matt Masicotte")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
