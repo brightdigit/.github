@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Fear of the Main Thread with Matt Masicotte (December 31)](http://www.youtube.com/watch?v=4IoVDpvT5WU)
+### [Moving Forward 2025 (January 23)](http://www.youtube.com/watch?v=jHdtwtdkDi4)
 
-[![Fear of the Main Thread with Matt Masicotte](http://img.youtube.com/vi/4IoVDpvT5WU/maxresdefault.jpg)](http://www.youtube.com/watch?v=4IoVDpvT5WU "Fear of the Main Thread with Matt Masicotte")
+[![Moving Forward 2025](http://img.youtube.com/vi/jHdtwtdkDi4/maxresdefault.jpg)](http://www.youtube.com/watch?v=jHdtwtdkDi4 "Moving Forward 2025")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
