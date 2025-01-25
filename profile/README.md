@@ -11,7 +11,7 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Moving Forward 2025 (January 23)](http://www.youtube.com/watch?v=jHdtwtdkDi4)
+### [Moving Forward 2025 (January 25)](http://www.youtube.com/watch?v=jHdtwtdkDi4)
 
 [![Moving Forward 2025](http://img.youtube.com/vi/jHdtwtdkDi4/maxresdefault.jpg)](http://www.youtube.com/watch?v=jHdtwtdkDi4 "Moving Forward 2025")
 <!-- YOUTUBE-VIDEO:END -->
