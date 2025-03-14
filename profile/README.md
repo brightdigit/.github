@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Swift on Android with Marc Prud&#39;hommeaux (February 12)](http://www.youtube.com/watch?v=0wVhbrfkoTA)
+### [SwiftUI Fundamentals with Natalia Panferova (March 14)](http://www.youtube.com/watch?v=VzOGc2PEpec)
 
-[![Swift on Android with Marc Prud&#39;hommeaux](http://img.youtube.com/vi/0wVhbrfkoTA/maxresdefault.jpg)](http://www.youtube.com/watch?v=0wVhbrfkoTA "Swift on Android with Marc Prud&#39;hommeaux")
+[![SwiftUI Fundamentals with Natalia Panferova](http://img.youtube.com/vi/VzOGc2PEpec/maxresdefault.jpg)](http://www.youtube.com/watch?v=VzOGc2PEpec "SwiftUI Fundamentals with Natalia Panferova")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
