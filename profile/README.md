@@ -94,11 +94,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Should You SwiftData?](https://brightdigit.com/articles/swiftdata-considerations)
 - [Implementing Sign in with Apple in the watchOS Simulator](https://brightdigit.com/tutorials/signin-apple-watchos-simulator)
-- [How Does Server Side Swift Workout in the Real World?](https://brightdigit.com/articles/server-side-swift-workout)
 - [Setting Up Sign in with Apple with Server Side Swift and SwiftUI](https://brightdigit.com/tutorials/full-stack-sign-in-with-apple)
+- [How Does Server Side Swift Workout in the Real World?](https://brightdigit.com/articles/server-side-swift-workout)
 - [2024 in Review and What&#39;s Next in 2025](https://brightdigit.com/articles/year-in-review-2024)
+- [SwiftData CRUD Operations with ModelActor](https://brightdigit.com/tutorials/swiftdata-crud-operations-modelactor)
 <!-- BLOG-POST-LIST:END -->
 
 
