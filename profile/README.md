@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [BrightDigit #109 - WWDC 2025, Bushel Updates, and iOS on Linux 🤔](https://mailchi.mp/96d1e02b2ddf/brightdigit-109-wwdc-2025)
 - [BrightDigit #108 - Should You SwiftData 🤔](https://mailchi.mp/254dbcfa2ffa/brightdigit-108-swiftdata)
 - [BrightDigit #107 - Swift Everywhere 🌎](https://mailchi.mp/c5d0bbfd8ceb/brightdigit-107-swift-everywhere)
-- [BrightDigit #106 - Big Changes and What&#39;s Next 🚀](https://mailchi.mp/4ae1394bcb5b/brightdigit-106-2024)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
