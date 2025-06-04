@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Full Stack Things with Werner Jainek and Vojtěch Rylko (March 27)](http://www.youtube.com/watch?v=COB8R1_XNZ0)
+### [v26.0 with Peter Witham (June 4)](http://www.youtube.com/watch?v=m8mbq2achIw)
 
-[![Full Stack Things with Werner Jainek and Vojtěch Rylko](http://img.youtube.com/vi/COB8R1_XNZ0/maxresdefault.jpg)](http://www.youtube.com/watch?v=COB8R1_XNZ0 "Full Stack Things with Werner Jainek and Vojtěch Rylko")
+[![v26.0 with Peter Witham](http://img.youtube.com/vi/m8mbq2achIw/maxresdefault.jpg)](http://www.youtube.com/watch?v=m8mbq2achIw "v26.0 with Peter Witham")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
