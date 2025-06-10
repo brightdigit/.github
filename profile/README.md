@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [v26.0 with Peter Witham (June 4)](http://www.youtube.com/watch?v=m8mbq2achIw)
+### [Live from CommunityKit WWDC 2025 with Matt Massicotte (June 10)](http://www.youtube.com/watch?v=4B8ZP8Ip34Y)
 
-[![v26.0 with Peter Witham](http://img.youtube.com/vi/m8mbq2achIw/maxresdefault.jpg)](http://www.youtube.com/watch?v=m8mbq2achIw "v26.0 with Peter Witham")
+[![Live from CommunityKit WWDC 2025 with Matt Massicotte](http://img.youtube.com/vi/4B8ZP8Ip34Y/maxresdefault.jpg)](http://www.youtube.com/watch?v=4B8ZP8Ip34Y "Live from CommunityKit WWDC 2025 with Matt Massicotte")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
