@@ -104,11 +104,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Live from CommunityKit WWDC 2025 with Matt Massicotte](https://share.transistor.fm/s/9b2f437d)
 - [v26.0 with Peter Witham](https://share.transistor.fm/s/af438621)
 - [Full Stack Things with Werner Jainek and Vojtěch Rylko](https://share.transistor.fm/s/338c293a)
 - [SwiftUI Fundamentals with Natalia Panferova](https://share.transistor.fm/s/9b3defab)
 - [Swift on Android with Marc Prud&#39;hommeaux](https://share.transistor.fm/s/07242181)
-- [Moving Forward 2025](https://share.transistor.fm/s/29a1400c)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 
