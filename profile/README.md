@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Deconstructing Xcode with xTool with Kabir Oberai (July 4)](http://www.youtube.com/watch?v=qlx719dRo28)
+### [Swift Testing with Rachel Brindle (July 18)](http://www.youtube.com/watch?v=00tGKe8NSME)
 
-[![Deconstructing Xcode with xTool with Kabir Oberai](http://img.youtube.com/vi/qlx719dRo28/maxresdefault.jpg)](http://www.youtube.com/watch?v=qlx719dRo28 "Deconstructing Xcode with xTool with Kabir Oberai")
+[![Swift Testing with Rachel Brindle](http://img.youtube.com/vi/00tGKe8NSME/maxresdefault.jpg)](http://www.youtube.com/watch?v=00tGKe8NSME "Swift Testing with Rachel Brindle")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
