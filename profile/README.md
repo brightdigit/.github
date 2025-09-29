@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [Introducing SyntaxKit 🎯 Declarative Swift Code Generation](https://mailchi.mp/93e4510a6518/115-syntaxkit)
 - [Introducing swift-build 🚀  Zero-Config Swift CI/CD](https://mailchi.mp/1c8d2d69bca8/114-swift-build)
 - [BrightDigit #113 -Deep dives into MilkDiary&#39;s AI features and Swift Testing&#39;s maturity 🤿](https://mailchi.mp/fe714d180a4b/brightdigit-113)
-- [BrightDigit #112 - Introducing the iOS Backend Selection Guide! 🥳](https://mailchi.mp/62b81841396e/brightdigit-112-ios-backend-cheat-sheet)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
