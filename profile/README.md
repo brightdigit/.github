@@ -24,9 +24,9 @@ You learn more about <a href="https://brightdigit.com/tutorial">coding</a> and <
 
 ## Latest Newsletters 
 <!-- NEWSLETTER-LIST:START -->
+- [Bushel v2.3.0: Screenshot Capture, Enhanced Full Screen &amp; macOS 26 Support](https://mailchi.mp/8b1d66e20337/116-bushel-230)
 - [Introducing SyntaxKit 🎯 Declarative Swift Code Generation](https://mailchi.mp/93e4510a6518/115-syntaxkit)
 - [Introducing swift-build 🚀  Zero-Config Swift CI/CD](https://mailchi.mp/1c8d2d69bca8/114-swift-build)
-- [BrightDigit #113 -Deep dives into MilkDiary&#39;s AI features and Swift Testing&#39;s maturity 🤿](https://mailchi.mp/fe714d180a4b/brightdigit-113)
 <!-- NEWSLETTER-LIST:END -->
 
 ![Static Badge](https://img.shields.io/badge/Subscribe-grey?style=for-the-badge&logo=mailchimp&link=https%3A%2F%2Fbrightdigit.com%2Fnewsletters%2F)
