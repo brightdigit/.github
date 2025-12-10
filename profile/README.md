@@ -94,11 +94,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rebuilding MistKit with Claude Code - Real-World Lessons and Collaboration Patterns &lpar;Part 2&rpar;](https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-2)
 - [Rebuilding MistKit with Claude Code - From CloudKit Docs to Type-Safe Swift &lpar;Part 1&rpar;](https://brightdigit.com/tutorials/rebuilding-mistkit-claude-code-part-1)
 - [Building SyntaxKit with AI: A Developer&#39;s Journey](https://brightdigit.com/tutorials/syntaxkit-swift-code-generation)
 - [Introducing swift-build: A GitHub Action for Swift](https://brightdigit.com/tutorials/swift-build)
 - [Should You SwiftData?](https://brightdigit.com/articles/swiftdata-considerations)
-- [Implementing Sign in with Apple in the watchOS Simulator](https://brightdigit.com/tutorials/signin-apple-watchos-simulator)
 <!-- BLOG-POST-LIST:END -->
 
 
