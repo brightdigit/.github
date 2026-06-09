@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Who&#39;s Wendy with Joannis Orlandos (June 5)](http://www.youtube.com/watch?v=LIL69QUtLT8)
+### [Platforms State of the Union 2026 with @PeterWitham​ (June 9)](http://www.youtube.com/watch?v=1U3pXddDYo0)
 
-[![Who&#39;s Wendy with Joannis Orlandos](http://img.youtube.com/vi/LIL69QUtLT8/maxresdefault.jpg)](http://www.youtube.com/watch?v=LIL69QUtLT8 "Who&#39;s Wendy with Joannis Orlandos")
+[![Platforms State of the Union 2026 with @PeterWitham​](http://img.youtube.com/vi/1U3pXddDYo0/maxresdefault.jpg)](http://www.youtube.com/watch?v=1U3pXddDYo0 "Platforms State of the Union 2026 with @PeterWitham​")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
