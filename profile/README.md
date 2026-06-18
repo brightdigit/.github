@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Platforms State of the Union 2026 with @PeterWitham​ (June 9)](http://www.youtube.com/watch?v=1U3pXddDYo0)
+### [120% Likely with Cihat Gündüz (June 18)](http://www.youtube.com/watch?v=P499FYcrmio)
 
-[![Platforms State of the Union 2026 with @PeterWitham​](http://img.youtube.com/vi/1U3pXddDYo0/maxresdefault.jpg)](http://www.youtube.com/watch?v=1U3pXddDYo0 "Platforms State of the Union 2026 with @PeterWitham​")
+[![120% Likely with Cihat Gündüz](http://img.youtube.com/vi/P499FYcrmio/maxresdefault.jpg)](http://www.youtube.com/watch?v=P499FYcrmio "120% Likely with Cihat Gündüz")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
