@@ -104,11 +104,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich](https://share.transistor.fm/s/bbf892fb)
 - [120% Likely with Cihat Gündüz](https://share.transistor.fm/s/2ae572e7)
 - [Platforms State of the Union 2026 with Peter Witham](https://share.transistor.fm/s/6abb8269)
 - [Who&#39;s Wendy with Joannis Orlandos](https://share.transistor.fm/s/87abf19d)
 - [Actually Really Useful](https://share.transistor.fm/s/b0323fef)
-- [Milk Diary with Kaya Thomas](https://share.transistor.fm/s/4b583acb)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 
