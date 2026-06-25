@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [120% Likely with Cihat Gündüz (June 18)](http://www.youtube.com/watch?v=P499FYcrmio)
+### [Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich (June 25)](http://www.youtube.com/watch?v=yFPlov0UTZ4)
 
-[![120% Likely with Cihat Gündüz](http://img.youtube.com/vi/P499FYcrmio/maxresdefault.jpg)](http://www.youtube.com/watch?v=P499FYcrmio "120% Likely with Cihat Gündüz")
+[![Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich](http://img.youtube.com/vi/yFPlov0UTZ4/maxresdefault.jpg)](http://www.youtube.com/watch?v=yFPlov0UTZ4 "Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
