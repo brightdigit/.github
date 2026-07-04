@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich (June 25)](http://www.youtube.com/watch?v=yFPlov0UTZ4)
+### [Independence Update (July 4)](http://www.youtube.com/watch?v=tYoIlDGI1cE)
 
-[![Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich](http://img.youtube.com/vi/yFPlov0UTZ4/maxresdefault.jpg)](http://www.youtube.com/watch?v=yFPlov0UTZ4 "Everyone Thinks They&#39;re Good at Prompting with Joe Fabisevich")
+[![Independence Update](http://img.youtube.com/vi/tYoIlDGI1cE/maxresdefault.jpg)](http://www.youtube.com/watch?v=tYoIlDGI1cE "Independence Update")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
