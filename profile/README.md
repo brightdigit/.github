@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Independence Update (July 4)](http://www.youtube.com/watch?v=tYoIlDGI1cE)
+### [Practical Agents with @DonnyWalsdev (July 12)](http://www.youtube.com/watch?v=1vOBfkxAHfY)
 
-[![Independence Update](http://img.youtube.com/vi/tYoIlDGI1cE/maxresdefault.jpg)](http://www.youtube.com/watch?v=tYoIlDGI1cE "Independence Update")
+[![Practical Agents with @DonnyWalsdev](http://img.youtube.com/vi/1vOBfkxAHfY/maxresdefault.jpg)](http://www.youtube.com/watch?v=1vOBfkxAHfY "Practical Agents with @DonnyWalsdev")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
