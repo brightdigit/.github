@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Swift on Windows with Saleem Abdulrasool (August 24)](http://www.youtube.com/watch?v=ZIC-Q1B7FHM)
+### [Skynet Came and Automated Everything with Jared Sorge (September 30)](http://www.youtube.com/watch?v=juSoG8QwLRU)
 
-[![Swift on Windows with Saleem Abdulrasool](http://img.youtube.com/vi/ZIC-Q1B7FHM/maxresdefault.jpg)](http://www.youtube.com/watch?v=ZIC-Q1B7FHM "Swift on Windows with Saleem Abdulrasool")
+[![Skynet Came and Automated Everything with Jared Sorge](http://img.youtube.com/vi/juSoG8QwLRU/maxresdefault.jpg)](http://www.youtube.com/watch?v=juSoG8QwLRU "Skynet Came and Automated Everything with Jared Sorge")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
