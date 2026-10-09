@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Skynet Came and Automated Everything with Jared Sorge (September 30)](http://www.youtube.com/watch?v=juSoG8QwLRU)
+### [The More You Know with @StewartLynch (October 9)](http://www.youtube.com/watch?v=IatG0aIuh7k)
 
-[![Skynet Came and Automated Everything with Jared Sorge](http://img.youtube.com/vi/juSoG8QwLRU/maxresdefault.jpg)](http://www.youtube.com/watch?v=juSoG8QwLRU "Skynet Came and Automated Everything with Jared Sorge")
+[![The More You Know with @StewartLynch](http://img.youtube.com/vi/IatG0aIuh7k/maxresdefault.jpg)](http://www.youtube.com/watch?v=IatG0aIuh7k "The More You Know with @StewartLynch")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
