@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [The More You Know with @StewartLynch (October 9)](http://www.youtube.com/watch?v=IatG0aIuh7k)
+### [We Don’t Have Any Futures or Promises Anymore with Tim Condon (October 16)](http://www.youtube.com/watch?v=fYLvWMjgN14)
 
-[![The More You Know with @StewartLynch](http://img.youtube.com/vi/IatG0aIuh7k/maxresdefault.jpg)](http://www.youtube.com/watch?v=IatG0aIuh7k "The More You Know with @StewartLynch")
+[![We Don’t Have Any Futures or Promises Anymore with Tim Condon](http://img.youtube.com/vi/fYLvWMjgN14/maxresdefault.jpg)](http://www.youtube.com/watch?v=fYLvWMjgN14 "We Don’t Have Any Futures or Promises Anymore with Tim Condon")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
