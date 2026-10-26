@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [We Don’t Have Any Futures or Promises Anymore with Tim Condon (October 16)](http://www.youtube.com/watch?v=fYLvWMjgN14)
+### [Then 20 Years Later with Georg Tuparev (October 26)](http://www.youtube.com/watch?v=kfatR0XKv28)
 
-[![We Don’t Have Any Futures or Promises Anymore with Tim Condon](http://img.youtube.com/vi/fYLvWMjgN14/maxresdefault.jpg)](http://www.youtube.com/watch?v=fYLvWMjgN14 "We Don’t Have Any Futures or Promises Anymore with Tim Condon")
+[![Then 20 Years Later with Georg Tuparev](http://img.youtube.com/vi/kfatR0XKv28/maxresdefault.jpg)](http://www.youtube.com/watch?v=kfatR0XKv28 "Then 20 Years Later with Georg Tuparev")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
