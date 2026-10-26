@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Then 20 Years Later with Georg Tuparev (October 26)](http://www.youtube.com/watch?v=kfatR0XKv28)
+### [Then 20 Years Later with Georg Tuparev (October 26)](http://www.youtube.com/watch?v=EgyFKgwblhg)
 
-[![Then 20 Years Later with Georg Tuparev](http://img.youtube.com/vi/kfatR0XKv28/maxresdefault.jpg)](http://www.youtube.com/watch?v=kfatR0XKv28 "Then 20 Years Later with Georg Tuparev")
+[![Then 20 Years Later with Georg Tuparev](http://img.youtube.com/vi/EgyFKgwblhg/maxresdefault.jpg)](http://www.youtube.com/watch?v=EgyFKgwblhg "Then 20 Years Later with Georg Tuparev")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
