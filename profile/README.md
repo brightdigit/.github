@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Then 20 Years Later with Georg Tuparev (October 26)](http://www.youtube.com/watch?v=EgyFKgwblhg)
+### [Do the Wrong Thing Much Faster with Graham Lee (November 2)](http://www.youtube.com/watch?v=-0YuwRVWyog)
 
-[![Then 20 Years Later with Georg Tuparev](http://img.youtube.com/vi/EgyFKgwblhg/maxresdefault.jpg)](http://www.youtube.com/watch?v=EgyFKgwblhg "Then 20 Years Later with Georg Tuparev")
+[![Do the Wrong Thing Much Faster with Graham Lee](http://img.youtube.com/vi/-0YuwRVWyog/maxresdefault.jpg)](http://www.youtube.com/watch?v=-0YuwRVWyog "Do the Wrong Thing Much Faster with Graham Lee")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
