@@ -1,0 +1,24 @@
+name: CI
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request:
+    branches: [ $default-branch ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-macos:
+    name: Build on macOS
+    # Private brightdigit repos must use the self-hosted Macs.
+    runs-on: [self-hosted, macOS]
+    if: ${{ !contains(github.event.head_commit.message, 'ci skip') }}
+    steps:
+      - uses: brightdigit/.github/actions/hosted-macos-guard@main
+      - uses: actions/checkout@v6
+      - name: Build and Test
+        uses: brightdigit/swift-build@v1
+        with:
+          xcode: "/Applications/Xcode.app"

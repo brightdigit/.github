@@ -1,0 +1,6 @@
+{
+  "name": "Swift CI (self-hosted macOS)",
+  "description": "Builds and tests a Swift package on brightdigit's self-hosted Macs, with the hosted macOS guard.",
+  "iconName": "octicon mark-github",
+  "categories": ["Swift"]
+}
