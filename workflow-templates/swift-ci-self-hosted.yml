@@ -14,8 +14,10 @@ jobs:
     name: Build on macOS
     # Private brightdigit repos must use the self-hosted Macs.
     runs-on: [self-hosted, macOS]
-    # Pushes carry the head commit message in the payload.
-    if: ${{ !contains(github.event.head_commit.message, 'ci skip') }}
+    # Never run fork pull requests on the persistent self-hosted Macs:
+    # untrusted code could compromise the runner. Pushes carry the head
+    # commit message in the payload, so 'ci skip' is checked here for them.
+    if: ${{ (github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository) && !contains(github.event.head_commit.message, 'ci skip') }}
     steps:
       - uses: brightdigit/.github/actions/hosted-macos-guard@main
       # Pull request payloads have no head_commit, so look up the PR head
@@ -28,6 +30,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
+          # jq ships with macOS 15+; if this Mac lacks it, build rather than fail.
+          if ! command -v jq >/dev/null; then
+            echo "::warning::jq not found on this runner; not checking the PR head for 'ci skip'."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           MESSAGE=$(curl -fsSL \
             -H "Authorization: Bearer ${GH_TOKEN}" \
             -H "Accept: application/vnd.github+json" \
