@@ -27,6 +27,7 @@ jobs:
 |---|---|---|
 | GitHub-hosted macOS | private | ❌ fails with an error annotation |
 | GitHub-hosted macOS | public | ✅ passes (public repos are free) |
+| GitHub-hosted macOS | unknown (no `repository.private` in the event payload) | ❌ fails closed |
 | Self-hosted macOS | any | ✅ step skipped |
 | Linux / Windows | any | ✅ step skipped |
 

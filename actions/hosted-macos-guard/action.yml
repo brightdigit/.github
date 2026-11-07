@@ -12,9 +12,10 @@ runs:
       if: runner.os == 'macOS' && runner.environment == 'github-hosted' && inputs.allow != 'true'
       shell: bash
       run: |
-        PRIVATE=$(jq -r '.repository.private // empty' "$GITHUB_EVENT_PATH" 2>/dev/null)
-        if [[ "$PRIVATE" == "true" ]]; then
-          echo "::error title=GitHub-hosted macOS blocked::${GITHUB_REPOSITORY} is private and this job is on a GitHub-hosted macOS runner (billed 10x). Use runs-on: [self-hosted, macOS], or set allow: 'true' on brightdigit/.github/actions/hosted-macos-guard."
+        # Fail closed: only an explicit boolean `false` counts as public.
+        PRIVATE=$(jq -r 'if .repository.private == false then "false" elif .repository.private == true then "true" else "unknown" end' "$GITHUB_EVENT_PATH")
+        if [[ "$PRIVATE" != "false" ]]; then
+          echo "::error title=GitHub-hosted macOS blocked::${GITHUB_REPOSITORY} is private or its visibility could not be determined (private=${PRIVATE}), and this job is on a GitHub-hosted macOS runner (private repositories are billed 10x). Use runs-on: [self-hosted, macOS], or set allow: 'true' on brightdigit/.github/actions/hosted-macos-guard."
           exit 1
         fi
         echo "Hosted macOS guard: OK (repository is not private)."

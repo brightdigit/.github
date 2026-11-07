@@ -6,7 +6,7 @@ on:
     branches: [ $default-branch ]
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -14,11 +14,35 @@ jobs:
     name: Build on macOS
     # Private brightdigit repos must use the self-hosted Macs.
     runs-on: [self-hosted, macOS]
+    # Pushes carry the head commit message in the payload.
     if: ${{ !contains(github.event.head_commit.message, 'ci skip') }}
     steps:
       - uses: brightdigit/.github/actions/hosted-macos-guard@main
+      # Pull request payloads have no head_commit, so look up the PR head
+      # commit message to honor 'ci skip' there too.
+      - name: Check for ci skip on pull request head
+        id: skip
+        if: ${{ github.event_name == 'pull_request' }}
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          MESSAGE=$(curl -fsSL \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "${GITHUB_API_URL}/repos/${GITHUB_REPOSITORY}/commits/${HEAD_SHA}" \
+            | jq -r '.commit.message')
+          if [[ "$MESSAGE" == *"ci skip"* ]]; then
+            echo "Head commit ${HEAD_SHA} contains 'ci skip'; skipping build."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v6
+        if: ${{ steps.skip.outputs.skip != 'true' }}
       - name: Build and Test
+        if: ${{ steps.skip.outputs.skip != 'true' }}
         uses: brightdigit/swift-build@v1
         with:
           xcode: "/Applications/Xcode.app"
