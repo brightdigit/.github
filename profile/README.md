@@ -11,9 +11,9 @@ We specialize in building apps using Swift and exploring all the new opportuniti
 
 ## Our Lastest Video
 <!-- YOUTUBE-VIDEO:START -->
-### [Do the Wrong Thing Much Faster with Graham Lee (November 2)](http://www.youtube.com/watch?v=-0YuwRVWyog)
+### [You&#39;re Better Than AI with Daniel Steinberg (November 9)](http://www.youtube.com/watch?v=bUtRz3FfPLo)
 
-[![Do the Wrong Thing Much Faster with Graham Lee](http://img.youtube.com/vi/-0YuwRVWyog/maxresdefault.jpg)](http://www.youtube.com/watch?v=-0YuwRVWyog "Do the Wrong Thing Much Faster with Graham Lee")
+[![You&#39;re Better Than AI with Daniel Steinberg](http://img.youtube.com/vi/bUtRz3FfPLo/maxresdefault.jpg)](http://www.youtube.com/watch?v=bUtRz3FfPLo "You&#39;re Better Than AI with Daniel Steinberg")
 <!-- YOUTUBE-VIDEO:END -->
 
 ## We also love helping people learn and grow as developers
