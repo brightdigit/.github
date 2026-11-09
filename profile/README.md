@@ -104,11 +104,11 @@ Unlike other apps that capture user health data, there is no need for extra hard
 
 ## Latest Episodes
 <!-- EMPOWERAPPS-SHOW:START -->
+- [You’re Better Than AI with Daniel Steinberg](https://share.transistor.fm/s/e88255c1)
 - [Do the Wrong Thing Much Faster with Graham Lee](https://share.transistor.fm/s/d34d47ec)
 - [Then 20 Years Later with Georg Tuparev](https://share.transistor.fm/s/78e46ac9)
 - [We Don’t Have Any Futures or Promises Anymore with Tim Condon](https://share.transistor.fm/s/3d199f1f)
 - [The More You Know with Stewart Lynch](https://share.transistor.fm/s/c8e02679)
-- [Skynet Came and Automated Everything with Jared Sorge](https://share.transistor.fm/s/49488722)
 <!-- EMPOWERAPPS-SHOW:END -->
 
 
